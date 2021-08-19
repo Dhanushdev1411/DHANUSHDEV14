@@ -107,7 +107,7 @@ body
     margin-right: auto;
     margin-bottom: 30px;
     display: block;
-    transform: translateY(-5px);
+    transform: translateY(15px);
 }
 .sentence
 {
